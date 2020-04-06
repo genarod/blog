@@ -17,7 +17,6 @@ ENV PYTHONDONTWRITEBYTECODE 1
 RUN pip install --upgrade pip && \
 	pip install -r requirements.txt
 
-
 # only download the pelican-boostrap3 theme 
 RUN mkdir /website/themes \
 && cd /website/themes \
@@ -39,6 +38,6 @@ RUN mkdir /website/plugins \
 
 # bust the cache 
 WORKDIR /website 
-# COPY pelicanconf.py /website/ 
-# COPY publishconf.py /website/
-# COPY Makefile /website/
+COPY pelicanconf.py /website/ 
+COPY publishconf.py /website/
+COPY Makefile /website/
