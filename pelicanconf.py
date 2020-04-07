@@ -15,6 +15,7 @@ DEFAULT_LANG = 'es'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
+CATEGORY_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
@@ -32,9 +33,9 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
-THEME = 'themes/pelican-bootstrap3'
+THEME = 'themes/pelican-mockingbird'
 PLUGIN_PATHS = ['plugins/', ]
 PLUGINS = ['i18n_subsites', ]
 JINJA_ENVIRONMENT = {

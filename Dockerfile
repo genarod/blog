@@ -17,15 +17,13 @@ ENV PYTHONDONTWRITEBYTECODE 1
 RUN pip install --upgrade pip && \
 	pip install -r requirements.txt
 
-# only download the pelican-boostrap3 theme 
-RUN mkdir /website/themes \
-&& cd /website/themes \
+# only download the theme we are using
+RUN mkdir -p /website/themes/pelican-mockingbird \
+&& cd /website/themes/pelican-mockingbird \
 && git init \
 && git remote add origin -f \
-	https://github.com/getpelican/pelican-themes.git \
-&& git config core.sparseCheckout true \
-&& echo "/pelican-bootstrap3/" >> .git/info/sparse-checkout \
-&& git pull origin master 
+  https://github.com/genarod/pelican-mockingbird.git \
+&& git pull origin master
 
 # only download the i18n_subsites plugin
 RUN mkdir /website/plugins \
