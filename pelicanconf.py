@@ -1,10 +1,11 @@
+
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
 AUTHOR = 'Genaro Díaz'
 SITENAME = 'Blog'
-SITEURL = ''
+SITEURL = 'https://genarod.github.io'
 
 PATH = 'content'
 
@@ -33,7 +34,7 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 THEME = 'themes/pelican-mockingbird'
 PLUGIN_PATHS = ['plugins/', ]
