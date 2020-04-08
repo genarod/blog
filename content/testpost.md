@@ -3,6 +3,6 @@ Date: 2020-04-06
 Tags: Test, Blog
 Summary: Una publicación de prueba
 
-## Encabezado de Nivel 2
+## En construcción
 
-Este es una publicación de prueba en Pelican.
+Esta es la publicación de prueba en Pelican.
