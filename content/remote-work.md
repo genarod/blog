@@ -5,18 +5,21 @@ Tags: Trabajo, Remoto
 Category: Work
 Summary: Productividad durante el trabajo remoto
 
-# Cómo se trabaja remotamente
+# Cómo trabajar remotamente
 
 Durante estos días de [cuarentena planetaria](https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2019-2020)
 por [Covid-19](https://es.wikipedia.org/wiki/COVID-19) algunos amigos me han preguntado por mi experiencia de trabajo remoto.
 Sinceramente prefiero trabajar en una oficina rodeado de compañeros de trabajo pero el trabajo desde casa tiene sus ventajas y no tiene por qué ser menos productivo.
 
 He leído muchos artículos excelentes al respecto pero he encontrado poco material en castellano de la calidad necesaria para recomendarlo a algún amigo.
-[Más abajo](#enlaces-utiles-ingles) hay enlaces a algunos de esos artículos en inglés que me han parecido particularmente útiles o interesantes.
+[Más abajo](#enlaces-utiles-ingles) hay enlaces a algunos de esos artículos en inglés que me han parecido particularmente útiles e interesantes.
 
 En este artículo voy a usar los términos de trabajo remoto o trabajo desde casa de manera intercambiable
 pero fuera del contexto actual es posible trabajar remotamente desde un café o desde un coworking.
 En este artículo voy a tratar exclusivamente el trabajo desde casa aunque algunos consejos sean aplicables en otros casos.
+
+<img src="images/working-from-home-480x279.jpg"
+     alt="Trabajando desde casa" width="480" height="279" />
 
 ## Algunos conceptos básicos
 
@@ -74,10 +77,12 @@ Para trabajar remotamente yo uso dos tipos de herramientas de comunicación: las
 
 Las herramientos para chats que he usado son [Slack](https://slackhq.com), [Zoom](https://zoom.us) y [Skype](https://www.skype.com/es/).
 Mucha gente recomienda [Microsoft Teams](https://products.office.com/es-ES/microsoft-teams/group-chat-software) como sucesor de Skype.
-Prefiero Slack, puedo usar Zoom y no me gusta Skype para esta función.
+Prefiero Slack y lo uso además de usar Zoom y no me gusta Skype para esta función.
 
 Las herramientas para video conferencias que he usado son Zoom, [Google Meet](https://meet.google.com/), Slack y Skype.
-Mucha gente recomienda [Jitsi Meet](https://jitsi.org/jitsi-meet/). Prefiero Zoom o Google Meet y no me gustan Slack ni Skype para esta función.
+Mucha gente recomienda [Jitsi Meet](https://jitsi.org/jitsi-meet/). Prefiero Zoom (el que uso normalmente) o Google Meet
+(para cuando debo tener una video llamada con alguien con quien no trabajo porque no necesita un programa especial)
+y no me gustan Slack ni Skype para esta función.
 
 Como ven son diferentes herramientas aunque pueden usar Slack o Zoom para ambas funciones. Ambas ofrecen planes gratuitos con algunas limitaciones.
 
@@ -139,6 +144,6 @@ He tomado información de varios de estos artículos para la elaboración de est
 
 ## Conclusión
 
-Cuando empecé a escribir este artículo no pensé que tuviera tanto que decir. El trabajo remoto se converte en natural después de una o dos semanas.
+Cuando empecé a escribir este artículo no pensé que tuviera tanto que decir. El trabajo remoto se convierte en natural después de una o dos semanas.
 Pero ahora que lo miro con cuidado me doy cuenta de que ha sido un recorrido adaptando y cambiando hábitos y costumbres.
 Espero que alguno de estos consejos te permitan ser un efectivo y productivo trabajador remoto por lo que dure la cuarentena o por el resto de tu vida.
