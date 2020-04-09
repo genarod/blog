@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog</title><link href="https://genarod.github.io/blog/" rel="alternate"></link><link href="https://genarod.github.io/blog/feeds/all.atom.xml" rel="self"></link><id>https://genarod.github.io/blog/</id><updated>2020-04-08T00:00:00+02:00</updated><entry><title>Trabajando remoto</title><link href="https://genarod.github.io/blog/trabajando-remoto.html" rel="alternate"></link><published>2020-04-08T00:00:00+02:00</published><updated>2020-04-08T00:00:00+02:00</updated><author><name>Genaro Díaz</name></author><id>tag:genarod.github.io,2020-04-08:/blog/trabajando-remoto.html</id><summary type="html">&lt;p&gt;Productividad durante el trabajo remoto&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Cómo se trabaja remotamente&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog</title><link href="https://genarod.github.io/blog/" rel="alternate"></link><link href="https://genarod.github.io/blog/feeds/all.atom.xml" rel="self"></link><id>https://genarod.github.io/blog/</id><updated>2020-04-08T00:00:00+02:00</updated><entry><title>Trabajando remoto</title><link href="https://genarod.github.io/blog/trabajando-remoto.html" rel="alternate"></link><published>2020-04-08T00:00:00+02:00</published><updated>2020-04-08T00:00:00+02:00</updated><author><name>Genaro Díaz</name></author><id>tag:genarod.github.io,2020-04-08:/blog/trabajando-remoto.html</id><summary type="html">&lt;p&gt;Productividad durante el trabajo remoto&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Cómo trabajar remotamente&lt;/h1&gt;
 &lt;p&gt;Durante estos días de &lt;a href="https://es.wikipedia.org/wiki/Pandemia_de_enfermedad_por_coronavirus_de_2019-2020"&gt;cuarentena planetaria&lt;/a&gt;
 por &lt;a href="https://es.wikipedia.org/wiki/COVID-19"&gt;Covid-19&lt;/a&gt; algunos amigos me han preguntado por mi experiencia de trabajo remoto.
 Sinceramente prefiero trabajar en una oficina rodeado de compañeros de trabajo pero el trabajo desde casa tiene sus ventajas y no tiene por qué ser menos productivo.&lt;/p&gt;
 &lt;p&gt;He leído muchos artículos excelentes al respecto pero he encontrado poco material en castellano de la calidad necesaria para recomendarlo a algún amigo.
-&lt;a href="#enlaces-utiles-ingles"&gt;Más abajo&lt;/a&gt; hay enlaces a algunos de esos artículos en inglés que me han parecido particularmente útiles o interesantes.&lt;/p&gt;
+&lt;a href="#enlaces-utiles-ingles"&gt;Más abajo&lt;/a&gt; hay enlaces a algunos de esos artículos en inglés que me han parecido particularmente útiles e interesantes.&lt;/p&gt;
 &lt;p&gt;En este artículo voy a usar los términos de trabajo remoto o trabajo desde casa de manera intercambiable
 pero fuera del contexto actual es posible trabajar remotamente desde un café o desde un coworking.
 En este artículo voy a tratar exclusivamente el trabajo desde casa aunque algunos consejos sean aplicables en otros casos.&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/working-from-home-480x279.jpg"
+     alt="Trabajando desde casa" width="480" height="279" /&gt;&lt;/p&gt;
 &lt;h2&gt;Algunos conceptos básicos&lt;/h2&gt;
 &lt;p&gt;El trabajo remoto puede ser igual o más productivo que trabajar desde la oficina.
 No hay ninguna razón por la que, para muchos trabajos, trabajar fuera de una oficina deba ser menos productivo.
@@ -48,9 +50,11 @@ Yo no sigo estrictamente esta técnica pero sí trato de mantener ciclos de conc
 &lt;p&gt;Para trabajar remotamente yo uso dos tipos de herramientas de comunicación: las herramientas para conversaciones de texto tipo chat y las herramientas para video conferencias.&lt;/p&gt;
 &lt;p&gt;Las herramientos para chats que he usado son &lt;a href="https://slackhq.com"&gt;Slack&lt;/a&gt;, &lt;a href="https://zoom.us"&gt;Zoom&lt;/a&gt; y &lt;a href="https://www.skype.com/es/"&gt;Skype&lt;/a&gt;.
 Mucha gente recomienda &lt;a href="https://products.office.com/es-ES/microsoft-teams/group-chat-software"&gt;Microsoft Teams&lt;/a&gt; como sucesor de Skype.
-Prefiero Slack, puedo usar Zoom y no me gusta Skype para esta función.&lt;/p&gt;
+Prefiero Slack y lo uso además de usar Zoom y no me gusta Skype para esta función.&lt;/p&gt;
 &lt;p&gt;Las herramientas para video conferencias que he usado son Zoom, &lt;a href="https://meet.google.com/"&gt;Google Meet&lt;/a&gt;, Slack y Skype.
-Mucha gente recomienda &lt;a href="https://jitsi.org/jitsi-meet/"&gt;Jitsi Meet&lt;/a&gt;. Prefiero Zoom o Google Meet y no me gustan Slack ni Skype para esta función.&lt;/p&gt;
+Mucha gente recomienda &lt;a href="https://jitsi.org/jitsi-meet/"&gt;Jitsi Meet&lt;/a&gt;. Prefiero Zoom (el que uso normalmente) o Google Meet
+(para cuando debo tener una video llamada con alguien con quien no trabajo porque no necesita un programa especial)
+y no me gustan Slack ni Skype para esta función.&lt;/p&gt;
 &lt;p&gt;Como ven son diferentes herramientas aunque pueden usar Slack o Zoom para ambas funciones. Ambas ofrecen planes gratuitos con algunas limitaciones.&lt;/p&gt;
 &lt;p&gt;Es importante entender para qué vamos a usar una herramienta u otra. ¿Le escribo un chat a este compañero o lo llamo?&lt;/p&gt;
 &lt;ul&gt;
@@ -102,7 +106,7 @@ He tomado información de varios de estos artículos para la elaboración de est
 &lt;li&gt;&lt;a href="https://www.toptal.com/remote/remote-work-tools"&gt;Remote work tools&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Conclusión&lt;/h2&gt;
-&lt;p&gt;Cuando empecé a escribir este artículo no pensé que tuviera tanto que decir. El trabajo remoto se converte en natural después de una o dos semanas.
+&lt;p&gt;Cuando empecé a escribir este artículo no pensé que tuviera tanto que decir. El trabajo remoto se convierte en natural después de una o dos semanas.
 Pero ahora que lo miro con cuidado me doy cuenta de que ha sido un recorrido adaptando y cambiando hábitos y costumbres.
 Espero que alguno de estos consejos te permitan ser un efectivo y productivo trabajador remoto por lo que dure la cuarentena o por el resto de tu vida.&lt;/p&gt;</content><category term="Trabajo"></category><category term="Remoto"></category></entry><entry><title>Publicación de prueba</title><link href="https://genarod.github.io/blog/publicacion-de-prueba.html" rel="alternate"></link><published>2020-04-06T00:00:00+02:00</published><updated>2020-04-06T00:00:00+02:00</updated><author><name>Genaro Díaz</name></author><id>tag:genarod.github.io,2020-04-06:/blog/publicacion-de-prueba.html</id><summary type="html">&lt;p&gt;Una publicación de prueba&lt;/p&gt;</summary><content type="html">&lt;h2&gt;En construcción&lt;/h2&gt;
 &lt;p&gt;Esta es la publicación de prueba en Pelican.&lt;/p&gt;</content><category term="Test"></category><category term="Blog"></category></entry></feed>
