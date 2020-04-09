@@ -18,7 +18,7 @@ En este artículo voy a usar los términos de trabajo remoto o trabajo desde cas
 pero fuera del contexto actual es posible trabajar remotamente desde un café o desde un coworking.
 En este artículo voy a tratar exclusivamente el trabajo desde casa aunque algunos consejos sean aplicables en otros casos.
 
-<img src="images/working-from-home-480x279.jpg"
+<img src="https://genarod.github.io/blog/images/working-from-home-480x279.jpg"
      alt="Trabajando desde casa" width="480" height="279" />
 
 ## Algunos conceptos básicos
