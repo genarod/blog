@@ -1,6 +1,6 @@
 Title: Trabajando remoto
 Language: es
-Date: 2020-04-08
+Date: 2020-04-09
 Tags: Trabajo, Remoto
 Category: Work
 Summary: Productividad durante el trabajo remoto
