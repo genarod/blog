@@ -14,7 +14,7 @@ La [entrada de Wikipedia de Scrum](https://es.wikipedia.org/wiki/Scrum_(desarrol
 Scrum es un marco de trabajo que usualmente se usa para el desarrollo de software pero actualmente se utiliza en muchos otros contextos.
 En este artículo comentaré las razones por las que un proceso específico podría considerar utilizar Scrum.
 
-<img src="images/brooke-cagle-g1Kr4Ozfoac-unsplash-480x320.jpg"
+<img src="https://genarod.github.io/blog/images/brooke-cagle-g1Kr4Ozfoac-unsplash-480x320.jpg"
      alt="Scrum es colaborativo" width="480" height="320" />
      
 <sup>Foto de [Brooke Cagle](https://unsplash.com/@brookecagle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
