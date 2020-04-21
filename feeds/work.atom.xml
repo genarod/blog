@@ -28,7 +28,7 @@ y en el Sprint siguiente se desarrolle ese user story, pero Scrum no debe ser un
 &lt;p&gt;Si el equipo de Scrum tiene poca experiencia o tiene poco tiempo trabajando juntos es probablemente mejor mantenernos con la práctica recomendada
 pero en equipos de Scrum con experiencia y con varios Sprints con buena velocidad puede ser útil tener esas user stories que se completarán durante el Sprint para lograr el objetivo más rápidamente.&lt;/p&gt;
 &lt;h1&gt;Razones para NO usar Scrum&lt;/h1&gt;
-&lt;p&gt;Hay gente que dice que las reuniones diarias de Scrum son muy frecuentes y que no son necesarias. Yo considero que una reunión de 15 minutos al incio del día es muy útil para iniciar el día de trabajo.
+&lt;p&gt;Hay gente que dice que las reuniones diarias de Scrum son muy frecuentes y que no son necesarias. Yo considero que una reunión de 15 minutos al inicio del día es muy útil para iniciar el día de trabajo.
 Como trabajo de forma remota  para mí son muy importantes esas reuniones diarias a través de video conferencias porque
 tengo la oportunidad de entender, por la cara, los gestos y la voz de mi equipo de desarrollo, cómo va el trabajo de cada uno.
 Hay personas que no piden ayuda a tiempo o que pueden estar pasando por problemas personales que van a afectar el trabajo
@@ -41,7 +41,7 @@ Scrum se usa cuando el trabajo no es rutinario, cuando hay incertidumbre, cuando
 &lt;h1&gt;Conclusión&lt;/h1&gt;
 &lt;p&gt;Si conoces Scrum desde hace años y quieres sustituir las reuniones diarias por comunicaciones en Slack, no me parece una mala idea si sabes lo que estás haciendo.
 Si no conoces Scrum y lo quieres aplicar en un proceso en el que hay poca incertidumbre probablemente no sea el marco de trabajo más adecuado.
-Si no conoces Scrum y lo quieres alpicar en un proceso en el que hay no se tiene claro cómo quieres que sea el producto final probablemente Scrum sea una buena opción a explorar.&lt;/p&gt;
+Si no conoces Scrum y lo quieres aplicar en un proceso en el que hay no se tiene claro cómo quieres que sea el producto final probablemente Scrum sea una buena opción a explorar.&lt;/p&gt;
 &lt;p&gt;Al inicio de mi carrera profesional, hace más de 20 años, debíamos especificar todo lo que íbamos a desarrollar antes de iniciar ese desarrollo.
 Está de más decir que a menudo lo que se entregaba no era lo mismo que se diseñaba y usualmente no era lo que el usuario final necesitaba.
 Eso rara vez permitía que el usuario se sintiera satisfecho con la solución.&lt;/p&gt;
@@ -77,18 +77,18 @@ Yo no recomiendo trabajar desde el sofá o desde la cama. No digo que no puedo i
 pero trabajar por horas fuera de una silla sin soporte lumbar y sin apoyar los codos hace que al final del día esté más cansado o adolorido.&lt;/p&gt;
 &lt;p&gt;Lo ideal es contar con una habitación en la que podamos cerrar la puerta y que separe el espacio familiar del espacio de trabajo pero eso no es siempre posible.
 Además no es algo que, en general, se pueda lograr durante esta cuarentena.&lt;/p&gt;
-&lt;p&gt;La pantalla debe estar ubicada a la altura de mis ojos. Si trabajo con un ordenador portatil es probable que para mirar esa pantalla deba mirar hacia abajo.
+&lt;p&gt;La pantalla debe estar ubicada a la altura de mis ojos. Si trabajo con un ordenador portátil es probable que para mirar esa pantalla deba mirar hacia abajo.
 En ese caso es posible usar un &lt;a href="https://www.pccomponentes.com/accesorios-portatiles/tipo-soporte"&gt;soporte&lt;/a&gt; que eleve esa pantalla al nivel de mis ojos.
 Yo uso la pantalla del ordenador portátil como pantalla secundaria mientras la pantalla principal es un monitor externo que está a la altura adecuada.
 La ventaja de un monitor externo es que es más grande que la pantalla del portátil y puedo tener más información en la pantalla.&lt;/p&gt;
 &lt;h3&gt;Temas psicológicos&lt;/h3&gt;
 &lt;p&gt;Es importante separar el tiempo familiar y/o personal del tiempo laboral. En mi horario laboral puedo y debo tener pausas de unos 10 minutos durante las que miro a la ventana mientras tomo un té.
-Esas pausas son importantes y necesarias. Pero no aconsejo sentarme en el sofá a ver el capítulo más reciente de Westworld durante mi horario laboral ni siquiera en una pausa a mediodía.
-Tampoco aconsejo responder un correo electrónico fuera del "horario laboral". No digo que no se pueda hacer de forma excepcional por una emergencia,
-pero es importante que haya una clara separación del horario laboral del resto del tiempo.&lt;/p&gt;
+Esas pausas son importantes y necesarias. Pero no aconsejo sentarme en el sofá a ver el capítulo más reciente de &lt;a href="https://es.wikipedia.org/wiki/Westworld_(serie_de_televisión)"&gt;Westworld&lt;/a&gt;
+durante mi horario laboral ni siquiera en una pausa a mediodía. Tampoco aconsejo responder un correo electrónico fuera del "horario laboral".
+No digo que no se pueda hacer de forma excepcional por una emergencia, pero es importante que haya una clara separación del horario laboral del resto del tiempo.&lt;/p&gt;
 &lt;p&gt;Ese horario laboral no tiene que ser igual al horario que teníamos cuando trabajábamos desde la oficina. Si lo coordinamos con nuestro jefe y con nuestros compañeros de trabajo
 podemos empezar a trabajar un poco más tarde o terminar antes si la pausa de mediodía es más corta.
-Por otra parte tal vez sintamos que nuestra productividad no es la misma que desde la oficina y prefiramos una joranada laboral un poco más larga para compensarlo.&lt;/p&gt;
+Por otra parte tal vez sintamos que nuestra productividad no es la misma que desde la oficina y prefiramos una jornada laboral un poco más larga para compensarlo.&lt;/p&gt;
 &lt;p&gt;Para mejorar la separación entre horario laboral y horario personal es importante mantener los hábitos como cambiarme de ropa antes de iniciar el trabajo.
 No es necesario que sea la misma ropa que usaba para ir a la oficina pero sí que no sea la misma ropa que usé para dormir.&lt;/p&gt;
 &lt;p&gt;Mantener pausas durante la jornada laboral es importantísimo. Es necesario pararse de la silla y dar unos pasos cada cierto tiempo. ¿Qué tan frecuentes pueden ser esas pausas? Eso depende de cada persona
@@ -97,7 +97,7 @@ en ciclos de 30 minutos, llamados pomodoros, dentro de los cuales voy a tener 25
 Yo no sigo estrictamente esta técnica pero sí trato de mantener ciclos de concentración seguidos por pausas con duraciones similares a las mencionadas.&lt;/p&gt;
 &lt;h2&gt;Herramientas para trabajo remoto&lt;/h2&gt;
 &lt;p&gt;Para trabajar remotamente yo uso dos tipos de herramientas de comunicación: las herramientas para conversaciones de texto tipo chat y las herramientas para video conferencias.&lt;/p&gt;
-&lt;p&gt;Las herramientos para chats que he usado son &lt;a href="https://slackhq.com"&gt;Slack&lt;/a&gt;, &lt;a href="https://zoom.us"&gt;Zoom&lt;/a&gt; y &lt;a href="https://www.skype.com/es/"&gt;Skype&lt;/a&gt;.
+&lt;p&gt;Las herramientas para chats que he usado son &lt;a href="https://slackhq.com"&gt;Slack&lt;/a&gt;, &lt;a href="https://zoom.us"&gt;Zoom&lt;/a&gt; y &lt;a href="https://www.skype.com/es/"&gt;Skype&lt;/a&gt;.
 Mucha gente recomienda &lt;a href="https://products.office.com/es-ES/microsoft-teams/group-chat-software"&gt;Microsoft Teams&lt;/a&gt; como sucesor de Skype.
 Prefiero Slack y lo uso además de usar Zoom y no me gusta Skype para esta función.&lt;/p&gt;
 &lt;p&gt;Las herramientas para video conferencias que he usado son Zoom, &lt;a href="https://meet.google.com/"&gt;Google Meet&lt;/a&gt;, Slack y Skype.
@@ -114,7 +114,7 @@ y no me gustan Slack ni Skype para esta función.&lt;/p&gt;
 &lt;p&gt;Si lo que necesito decirle o preguntarle requiere atención inmediata y lo puedo explicar con pocas palabras le escribo un chat pero lo menciono para asegurarme de que le aparezca una notificación.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Si lo que necesito decirle o preguntarle requiere una conversación larga que no puede explicarse con pocas palabras le escribo para acordar una llamda de video conferencia para el futuro inmediato o para otro momento.&lt;/p&gt;
+&lt;p&gt;Si lo que necesito decirle o preguntarle requiere una conversación larga que no puede explicarse con pocas palabras le escribo para acordar una llamada de video conferencia para el futuro inmediato o para otro momento.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Es importante que la herramienta de chat que elijamos la usemos de forma correcta. En la oficina sabemos que alguien está concentrado por su postura o porque está usando audífonos
@@ -137,7 +137,7 @@ Si los miembros del equipo de trabajo se dividen entre Europa y América ese nú
 Durante esas horas todo el equipo estaría disponible para tener reuniones con el resto del equipo.&lt;/p&gt;
 &lt;p&gt;Al finalizar cada reunión que no sea una reunión de estatus (porque el estatus del equipo se refleja en Trello o en Jira) es importante dejar constancia de las conclusiones.
 Esas conclusiones se pueden reflejar en un correo electrónico al cliente pero también podrían ser unas nuevas tarjetas en Trello o nuevos issues en Jira.&lt;/p&gt;
-&lt;p&gt;Es muy importante tener espacios y oportunidades para tener conversaciones de temas no laborales. Eos espacios permitirán conocer mejor al resto de los miembros del equipo y sus circunstancias actuales.
+&lt;p&gt;Es muy importante tener espacios y oportunidades para tener conversaciones de temas no laborales. Esos espacios permitirán conocer mejor al resto de los miembros del equipo y sus circunstancias actuales.
 Es vital conocer cómo vamos llevando el proceso de adaptarnos a lo nuevo dentro de cada equipo de trabajo.&lt;/p&gt;
 &lt;h2&gt;&lt;a id="enlaces-utiles-ingles"&gt;&lt;/a&gt;Enlaces útiles en inglés&lt;/h2&gt;
 &lt;p&gt;Como había mencionado anteriormente, recientemente se ha publicado muchísimo material sobre trabajo remoto, pero los mejores artículos están en inglés.
