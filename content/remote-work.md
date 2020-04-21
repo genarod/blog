@@ -47,7 +47,7 @@ pero trabajar por horas fuera de una silla sin soporte lumbar y sin apoyar los c
 Lo ideal es contar con una habitación en la que podamos cerrar la puerta y que separe el espacio familiar del espacio de trabajo pero eso no es siempre posible.
 Además no es algo que, en general, se pueda lograr durante esta cuarentena.
 
-La pantalla debe estar ubicada a la altura de mis ojos. Si trabajo con un ordenador portatil es probable que para mirar esa pantalla deba mirar hacia abajo.
+La pantalla debe estar ubicada a la altura de mis ojos. Si trabajo con un ordenador portátil es probable que para mirar esa pantalla deba mirar hacia abajo.
 En ese caso es posible usar un [soporte](https://www.pccomponentes.com/accesorios-portatiles/tipo-soporte) que eleve esa pantalla al nivel de mis ojos.
 Yo uso la pantalla del ordenador portátil como pantalla secundaria mientras la pantalla principal es un monitor externo que está a la altura adecuada.
 La ventaja de un monitor externo es que es más grande que la pantalla del portátil y puedo tener más información en la pantalla.
@@ -55,13 +55,13 @@ La ventaja de un monitor externo es que es más grande que la pantalla del port�
 ### Temas psicológicos
 
 Es importante separar el tiempo familiar y/o personal del tiempo laboral. En mi horario laboral puedo y debo tener pausas de unos 10 minutos durante las que miro a la ventana mientras tomo un té.
-Esas pausas son importantes y necesarias. Pero no aconsejo sentarme en el sofá a ver el capítulo más reciente de Westworld durante mi horario laboral ni siquiera en una pausa a mediodía.
-Tampoco aconsejo responder un correo electrónico fuera del "horario laboral". No digo que no se pueda hacer de forma excepcional por una emergencia,
-pero es importante que haya una clara separación del horario laboral del resto del tiempo.
+Esas pausas son importantes y necesarias. Pero no aconsejo sentarme en el sofá a ver el capítulo más reciente de [Westworld](https://es.wikipedia.org/wiki/Westworld_(serie_de_televisión))
+durante mi horario laboral ni siquiera en una pausa a mediodía. Tampoco aconsejo responder un correo electrónico fuera del "horario laboral".
+No digo que no se pueda hacer de forma excepcional por una emergencia, pero es importante que haya una clara separación del horario laboral del resto del tiempo.
 
 Ese horario laboral no tiene que ser igual al horario que teníamos cuando trabajábamos desde la oficina. Si lo coordinamos con nuestro jefe y con nuestros compañeros de trabajo
 podemos empezar a trabajar un poco más tarde o terminar antes si la pausa de mediodía es más corta.
-Por otra parte tal vez sintamos que nuestra productividad no es la misma que desde la oficina y prefiramos una joranada laboral un poco más larga para compensarlo.
+Por otra parte tal vez sintamos que nuestra productividad no es la misma que desde la oficina y prefiramos una jornada laboral un poco más larga para compensarlo.
 
 Para mejorar la separación entre horario laboral y horario personal es importante mantener los hábitos como cambiarme de ropa antes de iniciar el trabajo.
 No es necesario que sea la misma ropa que usaba para ir a la oficina pero sí que no sea la misma ropa que usé para dormir.
@@ -75,7 +75,7 @@ Yo no sigo estrictamente esta técnica pero sí trato de mantener ciclos de conc
 
 Para trabajar remotamente yo uso dos tipos de herramientas de comunicación: las herramientas para conversaciones de texto tipo chat y las herramientas para video conferencias.
 
-Las herramientos para chats que he usado son [Slack](https://slackhq.com), [Zoom](https://zoom.us) y [Skype](https://www.skype.com/es/).
+Las herramientas para chats que he usado son [Slack](https://slackhq.com), [Zoom](https://zoom.us) y [Skype](https://www.skype.com/es/).
 Mucha gente recomienda [Microsoft Teams](https://products.office.com/es-ES/microsoft-teams/group-chat-software) como sucesor de Skype.
 Prefiero Slack y lo uso además de usar Zoom y no me gusta Skype para esta función.
 
@@ -92,7 +92,7 @@ Es importante entender para qué vamos a usar una herramienta u otra. ¿Le escri
 
 - Si lo que necesito decirle o preguntarle requiere atención inmediata y lo puedo explicar con pocas palabras le escribo un chat pero lo menciono para asegurarme de que le aparezca una notificación.
 
-- Si lo que necesito decirle o preguntarle requiere una conversación larga que no puede explicarse con pocas palabras le escribo para acordar una llamda de video conferencia para el futuro inmediato o para otro momento.
+- Si lo que necesito decirle o preguntarle requiere una conversación larga que no puede explicarse con pocas palabras le escribo para acordar una llamada de video conferencia para el futuro inmediato o para otro momento.
 
 Es importante que la herramienta de chat que elijamos la usemos de forma correcta. En la oficina sabemos que alguien está concentrado por su postura o porque está usando audífonos
 y procuramos no molestarla salvo por razones muy importantes. Cuando trabajamos desde casa no sabemos si la otra persona está concentrada o resolviendo un problema en una llamada telefónica.
@@ -123,7 +123,7 @@ Durante esas horas todo el equipo estaría disponible para tener reuniones con e
 Al finalizar cada reunión que no sea una reunión de estatus (porque el estatus del equipo se refleja en Trello o en Jira) es importante dejar constancia de las conclusiones.
 Esas conclusiones se pueden reflejar en un correo electrónico al cliente pero también podrían ser unas nuevas tarjetas en Trello o nuevos issues en Jira.
 
-Es muy importante tener espacios y oportunidades para tener conversaciones de temas no laborales. Eos espacios permitirán conocer mejor al resto de los miembros del equipo y sus circunstancias actuales.
+Es muy importante tener espacios y oportunidades para tener conversaciones de temas no laborales. Esos espacios permitirán conocer mejor al resto de los miembros del equipo y sus circunstancias actuales.
 Es vital conocer cómo vamos llevando el proceso de adaptarnos a lo nuevo dentro de cada equipo de trabajo.
 
 ## <a id="enlaces-utiles-ingles"></a>Enlaces útiles en inglés

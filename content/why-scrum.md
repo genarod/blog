@@ -47,7 +47,7 @@ pero en equipos de Scrum con experiencia y con varios Sprints con buena velocida
 
 # Razones para NO usar Scrum
 
-Hay gente que dice que las reuniones diarias de Scrum son muy frecuentes y que no son necesarias. Yo considero que una reunión de 15 minutos al incio del día es muy útil para iniciar el día de trabajo.
+Hay gente que dice que las reuniones diarias de Scrum son muy frecuentes y que no son necesarias. Yo considero que una reunión de 15 minutos al inicio del día es muy útil para iniciar el día de trabajo.
 Como trabajo de forma remota  para mí son muy importantes esas reuniones diarias a través de video conferencias porque
 tengo la oportunidad de entender, por la cara, los gestos y la voz de mi equipo de desarrollo, cómo va el trabajo de cada uno.
 Hay personas que no piden ayuda a tiempo o que pueden estar pasando por problemas personales que van a afectar el trabajo
@@ -65,7 +65,7 @@ A menudo se utiliza Scrum para desarrollar un producto de software y se puede ut
 
 Si conoces Scrum desde hace años y quieres sustituir las reuniones diarias por comunicaciones en Slack, no me parece una mala idea si sabes lo que estás haciendo.
 Si no conoces Scrum y lo quieres aplicar en un proceso en el que hay poca incertidumbre probablemente no sea el marco de trabajo más adecuado.
-Si no conoces Scrum y lo quieres alpicar en un proceso en el que hay no se tiene claro cómo quieres que sea el producto final probablemente Scrum sea una buena opción a explorar.
+Si no conoces Scrum y lo quieres aplicar en un proceso en el que hay no se tiene claro cómo quieres que sea el producto final probablemente Scrum sea una buena opción a explorar.
 
 Al inicio de mi carrera profesional, hace más de 20 años, debíamos especificar todo lo que íbamos a desarrollar antes de iniciar ese desarrollo.
 Está de más decir que a menudo lo que se entregaba no era lo mismo que se diseñaba y usualmente no era lo que el usuario final necesitaba.
