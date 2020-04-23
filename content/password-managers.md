@@ -10,8 +10,8 @@ Los gestores de contraseñas son herramientas que nos permiten tener muchas cont
 Para acceder a esa base de datos necesitaremos una contraseña maestra pero esa será (casi) la única contraseña que deberemos recordar
 (para acceder al gestor de contraseñas probablemente debimos haber introducido antes la contraseña del ordenador).
 
-<img src="images/padlock-key-lock-security-455x250.jpg"
-     alt="Trabajando desde casa" width="455" height="250" />
+<img src="https://genarod.github.io/blog/images/padlock-key-lock-security-455x250.jpg"
+     alt="Buenas prácticas de seguridad informática" width="455" height="250" />
 
 # Ejemplos de gestores de contraseñas
 
