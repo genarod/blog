@@ -64,7 +64,7 @@ Reutilizar la contraseña que permite abrir el resto de mis contraseñas es derr
 
 La contraseña maestra debe ser larga y aleatoria con al menos 12 caracteres en minúsculas o 5 palabras.
 
-Debo usar mi contraseña maestra entre 10 y 30 veces antes de poder destruir el papel donde tengo anotada la contraseña maestra.
+Probablemente deba usar mi contraseña maestra entre 10 y 30 veces antes de poder destruir el papel donde tengo anotada la contraseña maestra.
 
 Si utilizo 1Password o LastPass, esos gestores de contraseñas proveen mecanismos para recuperar la contraseña maestra.
 Si utilizo PasswordSafe o KeePass no voy a tener ningún mecanismo para recuperar la contraseña maestra y eso es parte de su diseño por lo que no cambiará en la próxima versión.
