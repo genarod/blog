@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Blog</title><link href="https://genarod.github.io/blog/" rel="alternate"></link><link href="https://genarod.github.io/blog/feeds/all.atom.xml" rel="self"></link><id>https://genarod.github.io/blog/</id><updated>2020-04-23T00:00:00+02:00</updated><entry><title>Gestores de contraseñas</title><link href="https://genarod.github.io/blog/password-managers.html" rel="alternate"></link><published>2020-04-23T00:00:00+02:00</published><updated>2020-04-23T00:00:00+02:00</updated><author><name>Genaro Díaz</name></author><id>tag:genarod.github.io,2020-04-23:/blog/password-managers.html</id><summary type="html">&lt;p&gt;Gestores de contraseñas&lt;/p&gt;</summary><content type="html">&lt;p&gt;Los gestores de contraseñas son herramientas que nos permiten tener muchas contraseñas guardadas en una base de datos encriptada.
 Para acceder a esa base de datos necesitaremos una contraseña maestra pero esa será (casi) la única contraseña que deberemos recordar
 (para acceder al gestor de contraseñas probablemente debimos haber introducido antes la contraseña del ordenador).&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/padlock-key-lock-security-455x250.jpg"
-     alt="Trabajando desde casa" width="455" height="250" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://genarod.github.io/blog/images/padlock-key-lock-security-455x250.jpg"
+     alt="Buenas prácticas de seguridad informática" width="455" height="250" /&gt;&lt;/p&gt;
 &lt;h1&gt;Ejemplos de gestores de contraseñas&lt;/h1&gt;
 &lt;p&gt;Los más usados son &lt;a href="https://1password.com"&gt;1Password&lt;/a&gt; y &lt;a href="https://www.lastpass.com"&gt;LastPass&lt;/a&gt; y ambos son excelentes. Creo que 1Password es el líder del mercado pero LastPass es muy utilizado también.
 Ambos se encargarán de almacenar todas tus contraseñas. Tú solamente debes recordar la contraseña del servicio que uses y el resto de tus contraseñas serán recordadas por el servicio que uses.
