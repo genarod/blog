@@ -39,7 +39,7 @@ Si he usado esa contraseña en otras páginas web debo cambiar la contraseña de
 &lt;p&gt;La contraseña maestra no la debo utilizar para nada más. Durante este artículo lo voy a repetir la oración anterior una docena de veces. Reutilizar contraseñas es peligrosísimo.
 Reutilizar la contraseña que permite abrir el resto de mis contraseñas es derrotar el propósito de un gestor de contraseñas.&lt;/p&gt;
 &lt;p&gt;La contraseña maestra debe ser larga y aleatoria con al menos 12 caracteres en minúsculas o 5 palabras.&lt;/p&gt;
-&lt;p&gt;Debo usar mi contraseña maestra entre 10 y 30 veces antes de poder destruir el papel donde tengo anotada la contraseña maestra.&lt;/p&gt;
+&lt;p&gt;Probablemente deba usar mi contraseña maestra entre 10 y 30 veces antes de poder destruir el papel donde tengo anotada la contraseña maestra.&lt;/p&gt;
 &lt;p&gt;Si utilizo 1Password o LastPass, esos gestores de contraseñas proveen mecanismos para recuperar la contraseña maestra.
 Si utilizo PasswordSafe o KeePass no voy a tener ningún mecanismo para recuperar la contraseña maestra y eso es parte de su diseño por lo que no cambiará en la próxima versión.
 Eso los hace más seguros pero menos convenientes. Debo tener esto en cuenta al elegir el gestor de contraseñas que voy a usar.&lt;/p&gt;
