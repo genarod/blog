@@ -18,12 +18,13 @@ RUN pip install --upgrade pip && \
 	pip install -r requirements.txt
 
 # only download the theme we are using
-RUN mkdir -p /website/themes/pelican-mockingbird \
-&& cd /website/themes/pelican-mockingbird \
+RUN mkdir -p /website/themes/Flex \
+&& cd /website/themes/Flex \
 && git init \
 && git remote add origin -f \
-  https://github.com/genarod/pelican-mockingbird.git \
-&& git pull origin master
+  https://github.com/alexandrevicenzi/Flex.git \
+&& git pull origin master \
+&& git checkout tags/v2.2.0
 
 # only download the i18n_subsites plugin
 RUN mkdir /website/plugins \
