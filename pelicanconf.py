@@ -4,7 +4,7 @@
 from __future__ import unicode_literals
 
 SITEURL = "https://genarod.github.io/blog"
-SITELOGO = SITEURL + "/images/Genaro Octubre 2017.png"
+SITELOGO = SITEURL + "/images/genaro-639x639.png"
 AUTHOR = "Genaro Díaz"
 SITENAME = "La esquina de Genaro"
 SITETITLE = "Blog de Genaro"
@@ -17,7 +17,7 @@ ROBOTS = "index, follow"
 
 COPYRIGHT_YEAR = 2020
 MAIN_MENU = True
-MENUITEMS = (('Archives', '/archives'), ('Categories', '/categories'),
+MENUITEMS = (('Archives', '/blog/archives'), ('Categories', '/categories'),
              ('Tags', '/tags'))
 
 PATH = 'content'
