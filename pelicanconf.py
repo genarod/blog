@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
@@ -12,19 +11,29 @@ SITESUBTITLE = "Agile Project Manager"
 SITEDESCRIPTION = "Lo que le pasa por la cabeza a Genaro"
 # FAVICON = SITEURL + "/images/favicon.ico"
 
-BROWSER_COLOR = "#333"
+BROWSER_COLOR = '#333333'
+PYGMENTS_STYLE = 'monokai'
 ROBOTS = "index, follow"
 
 COPYRIGHT_YEAR = 2020
 MAIN_MENU = True
-MENUITEMS = (('Archives', '/blog/archives'), ('Categories', '/categories'),
-             ('Tags', '/tags'))
+MENUITEMS = (('Archivo', '/blog/archives'),
+             ('Categorías', '/blog/categories'),
+             ('Tags', '/blog/tags'))
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Madrid'
 
-DEFAULT_LANG = 'es'
+# Default theme language.
+I18N_TEMPLATES_LANG = "es"
+
+# Your language.
+DEFAULT_LANG = "es_ES"
+
+# Match languages for other configs.
+OG_LOCALE = "es_ES"
+LOCALE = ("es_ES", "es_ES.utf8")
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -48,6 +57,7 @@ SOCIAL = (('twitter', 'https://twitter.com/genarodiaz'),
           ('linkedin', 'https://www.linkedin.com/in/genaro-diaz-20b37926/'))
 
 DEFAULT_PAGINATION = 10
+SUMMARY_MAX_LENGTH = 175
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

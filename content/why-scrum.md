@@ -2,8 +2,8 @@ Title: Por qué uso Scrum
 Language: es
 Date: 2020-04-16
 Slug: why-scrum
-Tags: Work, Scrum
-Category: Work
+Tags: Trabajo, Scrum, Kanban
+Category: Trabajo
 Summary: Cuándo se debe usar Scrum y cuándo no
 
 # Qué es Scrum

@@ -2,8 +2,8 @@ Title: Gestores de contraseñas
 Language: es
 Date: 2020-04-23
 Slug: password-managers
-Tags: Misc
-Category: Tools
+Tags: KeePass, Passwords, Contraseñas
+Category: Herramientas
 Summary: Gestores de contraseñas
 
 Los gestores de contraseñas son herramientas que nos permiten tener muchas contraseñas guardadas en una base de datos encriptada.

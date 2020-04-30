@@ -1,5 +1,5 @@
 author: Genaro Díaz
-title: About Me
+title: Sobre Mí / About Me
 date: 2020-04-29
 
 # Sobre mí

@@ -22,7 +22,7 @@ RUN mkdir -p /website/themes/Flex \
 && cd /website/themes/Flex \
 && git init \
 && git remote add origin -f \
-  https://github.com/alexandrevicenzi/Flex.git \
+  https://github.com/genarod/Flex.git \
 && git pull origin master \
 && git checkout tags/v2.2.0
 

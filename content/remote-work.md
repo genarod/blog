@@ -2,7 +2,7 @@ Title: Trabajando remoto
 Language: es
 Date: 2020-04-09
 Tags: Trabajo, Remoto
-Category: Work
+Category: Trabajo
 Summary: Productividad durante el trabajo remoto
 
 # Cómo trabajar remotamente
