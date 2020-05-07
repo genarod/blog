@@ -10,8 +10,8 @@ En el artículo anterior discutí los [gestores de contraseñas](password-manage
 Este artículo discute otra herramienta fundamental. Pero no es para el 100% de los usuarios de ordenadores, sino para el 50%, o 20%, o 10% que consumen muchas noticias y que quieren tener el control sobre
 las fuentes de esas noticias. Esta última frase me describe a mí perfectamente pero no sé a cuántas otras personas describa. Para mí un lector de RSS es fundamental.
 
-<img src="images/woman-white-relax-time-455x303.jpg"
-     alt="Trabajando desde casa" width="455" height="303" />
+<img src="https://genarod.github.io/blog/images/woman-white-relax-time-455x303.jpg"
+     alt="Leyendo con calma" width="455" height="303" />
 
 # Lectores de RSS
 
