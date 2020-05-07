@@ -40,7 +40,7 @@ En ambos casos están delegándole la información que reciben a compañías sin
 
 Uso un lector de RSS, eso quiere decir que me he suscrito a varias fuentes de RSS que considero importantes para estar informado.
 Esas fuentes pueden ser de periódicos en su versión digital que publican docenas de noticias al día, páginas de sesudos analistas políticos que publican un par de veces al día o a la semana,
-páginas web de empresas cuyas ofertas tecnológicas me interesa seguir o [el blog de un buen amigo](http://myfirstluterblog.blogspot.com) que tengo más de 10 años sin ver y que tenía 3 años sin publicar nada
+páginas web de empresas cuyas ofertas tecnológicas me interesa seguir o [el blog de un buen amigo](https://myfirstluterblog.blogspot.com) que tengo más de 10 años sin ver y que tenía 3 años sin publicar nada
 pero escribió algo nuevo la semana pasada y mi lector de RSS me lo hizo saber.
 
 Todas esas fuentes de información estarán registradas en mi lector de RSS. Yo agrupo esas fuentes de acuerdo a la prioridad con la que debería leerlas para que lo urgente no me impida leer lo importante.
