@@ -2,7 +2,7 @@ Title: Gestores de contraseñas
 Language: es
 Date: 2020-04-23
 Slug: password-managers
-Tags: KeePass, Passwords, Contraseñas
+Tags: KeePass, Passwords, Contraseñas, Herramientas
 Category: Herramientas
 Summary: Gestores de contraseñas
 
