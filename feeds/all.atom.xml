@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>La esquina de Genaro</title><link href="https://genarod.github.io/blog/" rel="alternate"></link><link href="https://genarod.github.io/blog/feeds/all.atom.xml" rel="self"></link><id>https://genarod.github.io/blog/</id><updated>2020-05-07T00:00:00+02:00</updated><subtitle>Agile Project Manager</subtitle><entry><title>Lectores de RSS</title><link href="https://genarod.github.io/blog/rss-readers.html" rel="alternate"></link><published>2020-05-07T00:00:00+02:00</published><updated>2020-05-07T00:00:00+02:00</updated><author><name>Genaro Díaz</name></author><id>tag:genarod.github.io,2020-05-07:/blog/rss-readers.html</id><summary type="html">&lt;p&gt;Lectores de RSS o cómo leer lo que tú decides y no lo que alguien decide por tí&lt;/p&gt;</summary><content type="html">&lt;p&gt;En el artículo anterior discutí los &lt;a href="password-managers"&gt;gestores de contraseñas&lt;/a&gt;. Los gestores de contraseña, como expliqué en ese artículo, son indispensables para usar un ordenador en estos días.
 Este artículo discute otra herramienta fundamental. Pero no es para el 100% de los usuarios de ordenadores, sino para el 50%, o 20%, o 10% que consumen muchas noticias y que quieren tener el control sobre
 las fuentes de esas noticias. Esta última frase me describe a mí perfectamente pero no sé a cuántas otras personas describa. Para mí un lector de RSS es fundamental.&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/woman-white-relax-time-455x303.jpg"
-     alt="Trabajando desde casa" width="455" height="303" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://genarod.github.io/blog/images/woman-white-relax-time-455x303.jpg"
+     alt="Leyendo con calma" width="455" height="303" /&gt;&lt;/p&gt;
 &lt;h1&gt;Lectores de RSS&lt;/h1&gt;
 &lt;p&gt;Un lector de RSS es una herramienta que me permite coleccionar "feeds" y leerlos, manteniendo el seguimiento de qué artículos he leído y cuáles no he leído aún. ¿Qué es un feed?
 Un feed es la lista de publicaciones que tiene una página web en formato RSS, Atom o similar. Suena complicado pero en todas las páginas donde se muestre el símbolo de RSS o Atom
