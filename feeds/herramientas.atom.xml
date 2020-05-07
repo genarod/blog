@@ -9,9 +9,9 @@ las fuentes de esas noticias. Esta última frase me describe a mí perfectamente
 Un feed es la lista de publicaciones que tiene una página web en formato RSS, Atom o similar. Suena complicado pero en todas las páginas donde se muestre el símbolo de RSS o Atom
 se puede copiar el enlace al feed de esa página y agregarlo en mi lector de RSS.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://www.mozilla.org/media/img/trademarks/feed-icon-28x28.e077f1f611f0.png" alt="RSS icon" /&gt;&lt;/p&gt;
-&lt;p&gt;A partir de ese momento todas las noticias de esa página aparecerán en mi lector de feeds.&lt;/p&gt;
+&lt;p&gt;A partir de ese momento todas las noticias de esa página aparecerán en mi lector de RSS.&lt;/p&gt;
 &lt;h1&gt;¿Cómo leía noticias antes de usar un lector de RSS?&lt;/h1&gt;
-&lt;p&gt;Antes de usar un lector de feeds iniciaba todas las mañanas visitando varias páginas con noticias y elegía dos o tres noticias para leer de inmediato.
+&lt;p&gt;Antes de usar un lector de RSS iniciaba todas las mañanas visitando varias páginas con noticias y elegía dos o tres noticias para leer de inmediato.
 Cuando volvía a tener unos minutos libres volvía a visitar esas páginas y leía otras noticias que no había leído anteriormente.
 Frecuentemente leía todas las noticias que tenía disponibles y me ponía a recordar qué otras fuentes de noticias me podrían parecer interesantes.&lt;/p&gt;
 &lt;h1&gt;¿Cómo leería noticias actualmente sin usar un lector de RSS?&lt;/h1&gt;
@@ -19,16 +19,17 @@ Frecuentemente leía todas las noticias que tenía disponibles y me ponía a rec
 La mayoría de las personas que conozco todas las noticias que leen las leyeron en Facebook. La minoría de la personas que conozco se informan a través de Twitter y están más informados que la mayoría.&lt;/p&gt;
 &lt;p&gt;En ambos casos están delegándole la información que reciben a compañías sin criterios editoriales claros y a la red de contactos de cada uno.&lt;/p&gt;
 &lt;h1&gt;¿Cómo leo noticias usando un lector de RSS?&lt;/h1&gt;
-&lt;p&gt;Uso un lector de RSS. eso quiere decir que me he suscrito a varias fuentes de RSS que considero importantes para estar informado.
+&lt;p&gt;Uso un lector de RSS, eso quiere decir que me he suscrito a varias fuentes de RSS que considero importantes para estar informado.
 Esas fuentes pueden ser de periódicos en su versión digital que publican docenas de noticias al día, páginas de sesudos analistas políticos que publican un par de veces al día o a la semana,
-páginas web de empresas cuyas ofertas tecnológicas me interesa seguir o el blog de mi primo que tengo varios años sin ver y que tiene 5 años sin publicar nada.&lt;/p&gt;
+páginas web de empresas cuyas ofertas tecnológicas me interesa seguir o &lt;a href="http://myfirstluterblog.blogspot.com"&gt;el blog de un buen amigo&lt;/a&gt; que tengo más de 10 años sin ver y que tenía 3 años sin publicar nada
+pero escribió algo nuevo la semana pasada y mi lector de RSS me lo hizo saber.&lt;/p&gt;
 &lt;p&gt;Todas esas fuentes de información estarán registradas en mi lector de RSS. Yo agrupo esas fuentes de acuerdo a la prioridad con la que debería leerlas para que lo urgente no me impida leer lo importante.
 Pero cuando tenga 30 minutos libres voy a tener algunas docenas de artículos de distintos orígenes esperando por mí para leer a mi ritmo
 pero con la certeza que no se me va a escapar algún artículo importante entre la oferta de un día ajetreado de trabajo.&lt;/p&gt;
 &lt;p&gt;Frecuentemente me pasaba que leía algo interesante en algún blog y meses o años después me volvía a encontrar con ese mismo blog y
 me daba cuenta que había muchísimos artículos que me hubiera gustado leer pero que no había leído a tiempo.&lt;/p&gt;
 &lt;p&gt;Cuando ahora me encuentro con un blog que me parece interesante veo otros artículos publicados y si me parece que lo debería continuar leyendo en el futuro simplemente lo agrego como una fuente más en mi lector de RSS.
-Apenas ese blog publique un nuevo artículo aparecerá como un artícuylo más en mi lector de RSS.&lt;/p&gt;
+Apenas ese blog publique un nuevo artículo aparecerá como un artículo más en mi lector de RSS.&lt;/p&gt;
 &lt;h1&gt;¿Por qué debo usar un lector de RSS?&lt;/h1&gt;
 &lt;p&gt;De acuerdo, pero, ¿qué es un feed? ¿Por qué deberían interesarme estos feeds? Un feed es una lista de artículos ordenados de más reciente a menos reciente provistos por una página web.
 Mucha gente ya no lee el periódico en papel y se conforma con leer lo que le muestra Facebook y/o Twitter.&lt;/p&gt;
@@ -44,7 +45,7 @@ Pero no estoy leyendo solamente los temas que los editores de un periódico cons
 También uso la versión iOS pero también tiene una aplicación para Android y recomienda &lt;a href="https://feedly.com/apps.html"&gt;otras para Windows&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Feedly tiene la ventaja de que mantiene sincronizadas mis lecturas entre todos mis dispositivos.
 Eso de scinronizar entre dispositivos también lo puede hacer &lt;a href="https://www.inoreader.com/?lang=es_ES"&gt;Inoreader&lt;/a&gt; que tiene una opción gratuita y versiones web, iOS y Android.&lt;/p&gt;
-&lt;p&gt;Si usas Feedly o Inoreader varias otras aplicaciones pueden tomar tu cuenta en esos servicios y sincronozar tu lectura con esos servicios.
+&lt;p&gt;Si usas Feedly o Inoreader varias otras aplicaciones pueden tomar tu cuenta en esos servicios y sincronizar tu lectura con esos servicios.
 Una de esas aplicaciones que se pueden sincronizar con Inoreader es &lt;a href="https://ranchero.com/netnewswire/"&gt;NetNewsWire&lt;/a&gt; que es gratuita y está disponible para iOS y macOS.
 La versión para iOS puede sincronizarse con Feedly pero la versión actual para macOS no lo permite (la próxima versión lo hará por lo que tal vez cuando leas esto ya estará disponible esa opción).&lt;/p&gt;
 &lt;h1&gt;¿Qué feeds tengo en mi lector de RSS?&lt;/h1&gt;
@@ -53,7 +54,7 @@ Si creo que es importante lo agrego y a partir de ese momento cada vez que apare
 &lt;p&gt;Los agrupo por la frecuencia en las que debo leerlos. Los más importantes los leo apenas tengo unos minutos libres.
 Los más frecuentes son los periódicos digitales para estar enterado de las noticias generales del país donde nací y del país donde vivo.&lt;/p&gt;
 &lt;p&gt;Después agrupo las noticias tecnológicas que debo leer porque trabajo en tecnología. Al final dejo las fuentes que me parecen interesantes o divertidas pero que no tengo prisa por leer.&lt;/p&gt;
-&lt;p&gt;Actualmente tengo casi 200 artículos sin leer en mi lector de RSS. Estoy suscrito a 123 fuentes de las cuales 21 estan inactivas desde hace años.&lt;/p&gt;
+&lt;p&gt;Actualmente tengo casi 200 artículos sin leer en mi lector de RSS. Estoy suscrito a 123 fuentes de las cuales 21 están inactivas desde hace años.&lt;/p&gt;
 &lt;h1&gt;Conclusión&lt;/h1&gt;
 &lt;p&gt;Usando un lector de RSS tengo siempre noticias que sé que me interesan listas para leer. No leo todo lo que tengo disponible pero sí leo el título de todos esos artículos.&lt;/p&gt;</content><category term="RSS"></category><category term="Feedly"></category><category term="Lectura"></category><category term="Noticias"></category><category term="Herramientas"></category></entry><entry><title>Gestores de contraseñas</title><link href="https://genarod.github.io/blog/password-managers.html" rel="alternate"></link><published>2020-04-23T00:00:00+02:00</published><updated>2020-04-23T00:00:00+02:00</updated><author><name>Genaro Díaz</name></author><id>tag:genarod.github.io,2020-04-23:/blog/password-managers.html</id><summary type="html">&lt;p&gt;Gestores de contraseñas&lt;/p&gt;</summary><content type="html">&lt;p&gt;Los gestores de contraseñas son herramientas que nos permiten tener muchas contraseñas guardadas en una base de datos encriptada.
 Para acceder a esa base de datos necesitaremos una contraseña maestra pero esa será (casi) la única contraseña que deberemos recordar
