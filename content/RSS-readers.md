@@ -21,11 +21,11 @@ se puede copiar el enlace al feed de esa página y agregarlo en mi lector de RSS
 
 <img src="https://www.mozilla.org/media/img/trademarks/feed-icon-28x28.e077f1f611f0.png" alt="RSS icon" />
 
-A partir de ese momento todas las noticias de esa página aparecerán en mi lector de feeds.
+A partir de ese momento todas las noticias de esa página aparecerán en mi lector de RSS.
 
 # ¿Cómo leía noticias antes de usar un lector de RSS?
 
-Antes de usar un lector de feeds iniciaba todas las mañanas visitando varias páginas con noticias y elegía dos o tres noticias para leer de inmediato.
+Antes de usar un lector de RSS iniciaba todas las mañanas visitando varias páginas con noticias y elegía dos o tres noticias para leer de inmediato.
 Cuando volvía a tener unos minutos libres volvía a visitar esas páginas y leía otras noticias que no había leído anteriormente.
 Frecuentemente leía todas las noticias que tenía disponibles y me ponía a recordar qué otras fuentes de noticias me podrían parecer interesantes.
 
@@ -38,9 +38,10 @@ En ambos casos están delegándole la información que reciben a compañías sin
 
 # ¿Cómo leo noticias usando un lector de RSS?
 
-Uso un lector de RSS. eso quiere decir que me he suscrito a varias fuentes de RSS que considero importantes para estar informado.
+Uso un lector de RSS, eso quiere decir que me he suscrito a varias fuentes de RSS que considero importantes para estar informado.
 Esas fuentes pueden ser de periódicos en su versión digital que publican docenas de noticias al día, páginas de sesudos analistas políticos que publican un par de veces al día o a la semana,
-páginas web de empresas cuyas ofertas tecnológicas me interesa seguir o el blog de mi primo que tengo varios años sin ver y que tiene 5 años sin publicar nada.
+páginas web de empresas cuyas ofertas tecnológicas me interesa seguir o [el blog de un buen amigo](http://myfirstluterblog.blogspot.com) que tengo más de 10 años sin ver y que tenía 3 años sin publicar nada
+pero escribió algo nuevo la semana pasada y mi lector de RSS me lo hizo saber.
 
 Todas esas fuentes de información estarán registradas en mi lector de RSS. Yo agrupo esas fuentes de acuerdo a la prioridad con la que debería leerlas para que lo urgente no me impida leer lo importante.
 Pero cuando tenga 30 minutos libres voy a tener algunas docenas de artículos de distintos orígenes esperando por mí para leer a mi ritmo
@@ -50,7 +51,7 @@ Frecuentemente me pasaba que leía algo interesante en algún blog y meses o añ
 me daba cuenta que había muchísimos artículos que me hubiera gustado leer pero que no había leído a tiempo.
 
 Cuando ahora me encuentro con un blog que me parece interesante veo otros artículos publicados y si me parece que lo debería continuar leyendo en el futuro simplemente lo agrego como una fuente más en mi lector de RSS.
-Apenas ese blog publique un nuevo artículo aparecerá como un artícuylo más en mi lector de RSS.
+Apenas ese blog publique un nuevo artículo aparecerá como un artículo más en mi lector de RSS.
 
 # ¿Por qué debo usar un lector de RSS?
 
@@ -76,7 +77,7 @@ También uso la versión iOS pero también tiene una aplicación para Android y 
 Feedly tiene la ventaja de que mantiene sincronizadas mis lecturas entre todos mis dispositivos.
 Eso de scinronizar entre dispositivos también lo puede hacer [Inoreader](https://www.inoreader.com/?lang=es_ES) que tiene una opción gratuita y versiones web, iOS y Android.
 
-Si usas Feedly o Inoreader varias otras aplicaciones pueden tomar tu cuenta en esos servicios y sincronozar tu lectura con esos servicios.
+Si usas Feedly o Inoreader varias otras aplicaciones pueden tomar tu cuenta en esos servicios y sincronizar tu lectura con esos servicios.
 Una de esas aplicaciones que se pueden sincronizar con Inoreader es [NetNewsWire](https://ranchero.com/netnewswire/) que es gratuita y está disponible para iOS y macOS.
 La versión para iOS puede sincronizarse con Feedly pero la versión actual para macOS no lo permite (la próxima versión lo hará por lo que tal vez cuando leas esto ya estará disponible esa opción).
 
@@ -90,7 +91,7 @@ Los más frecuentes son los periódicos digitales para estar enterado de las not
 
 Después agrupo las noticias tecnológicas que debo leer porque trabajo en tecnología. Al final dejo las fuentes que me parecen interesantes o divertidas pero que no tengo prisa por leer.
 
-Actualmente tengo casi 200 artículos sin leer en mi lector de RSS. Estoy suscrito a 123 fuentes de las cuales 21 estan inactivas desde hace años.
+Actualmente tengo casi 200 artículos sin leer en mi lector de RSS. Estoy suscrito a 123 fuentes de las cuales 21 están inactivas desde hace años.
 
 # Conclusión
 
