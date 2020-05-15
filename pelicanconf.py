@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 SITEURL = "https://genarod.github.io/blog"
-SITELOGO = SITEURL + "/images/genaro-639x639.png"
+SITELOGO = SITEURL + "/images/genaro-639x639.jpeg"
 AUTHOR = "Genaro Díaz"
 SITENAME = "La esquina de Genaro"
 SITETITLE = "Blog de Genaro"
