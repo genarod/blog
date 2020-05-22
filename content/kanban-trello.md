@@ -22,7 +22,7 @@ Si no hay nada en la columna de "En proceso" asignado a mí mismo tomaré el top
 El proceso que describí en el párrafo anterior es la esencia del proceso de Kanban. En el blog de Trello hay un [artículo](https://blog.trello.com/es/metodologia-kanban) dedicado a cómo usar Trello para implementar Kanban
 en proyectos muy distintos. Frecuentemente tienen más columnas que las descritas previamente pero esas columnas deben bastar para proyectos sencillos.
 
-<img src="images/kanban-board-455x233.jpg" alt="Tablero Kanban" width="455" height="233"/>
+<img src="https://genarod.github.io/blog/images/kanban-board-455x233.jpg" alt="Tablero Kanban" width="455" height="233"/>
 
 # Metodología Kanban
 
@@ -30,7 +30,7 @@ En 1988 Taiichi Ohno y Shigeo Shingö describieron Kanban en libros que explicab
 El método de fabricación de Toyota utilizaba tarjetas "Kanban" de papel en el que se solicitaban piezas para cada paso de la fabricación de automóviles para lograr
 un sistema de control de la producción justo a tiempo flexible y eficiente.
 
-<img src="images/kanban-card-in-manufacture-390x260.jpg" alt="Tarjeta Kanban" width="390" height="260"/>
+<img src="https://genarod.github.io/blog/images/kanban-card-in-manufacture-390x260.jpg" alt="Tarjeta Kanban" width="390" height="260"/>
 
 A partir del año 2004 David J. Anderson empezó a aplicar esos conceptos en el desarrollo de software y en el año 2010 publicó el libro "Kanban: Successfully Evolutionary Change for your Technology Business".
 
